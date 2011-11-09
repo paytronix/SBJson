@@ -1,0 +1,11 @@
+This project is essentially an exact duplicate of SBJson v3.0.4:
+
+    http://stig.github.com/json-framework/
+
+that has been packaged as a static iOS framework:
+
+    https://github.com/kstenerud/iOS-Universal-Framework
+
+For convenient linking into iOS applications.
+
+-Ross Mellgren (rmellgren@paytronix.com)
